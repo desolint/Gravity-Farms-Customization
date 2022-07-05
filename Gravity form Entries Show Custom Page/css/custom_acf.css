@@ -1,0 +1,10 @@
+span.errno.active {
+    padding: 7px 15px;
+    display: block;
+    background: pink;
+    border-left: 3px solid red;
+    margin-top: 10px;
+    color: red;
+    font-size: 12px;
+    text-transform: capitalize;
+}
